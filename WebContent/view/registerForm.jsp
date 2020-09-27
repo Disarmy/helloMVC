@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Registration Form</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Registration Page</title>
 <style>
 div.ex {
 	text-align: center;
@@ -39,8 +39,8 @@ div.ex {
 				</tr>
 				<tr>
 					<td>성별</td>
-					<td><input type="radio" name="gender" value="남자"checked="checked"/>남자
-					<input type="radio" name="gender" value="여자" />여자</td>
+					<td><input type="radio" name="gender" value="male"checked="checked"/>남자
+					<input type="radio" name="gender" value="female" />여자</td>
 				</tr>
 				<tr>
 					<td>이메일</td>
